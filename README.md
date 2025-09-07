@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisha0906&label=Profile%20views&color=0e75b6&style=flat" alt="alisha0906" /> </p>
 
-- 👯 I’m looking to collaborate on **full-stack web applications using React, Node.js, and modern backend technologies.**
-
 - 🤝 I’m looking for help with **applying AI/ML in real-world software applications.**
 
 - 💬 Ask me about **problem-solving**
